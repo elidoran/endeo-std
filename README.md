@@ -1,6 +1,6 @@
 # endeo-std
-[![Dependency Status](https://gemnasium.com/elidoran/endeo.png)](https://gemnasium.com/elidoran/endeo)
-[![npm version](https://badge.fury.io/js/endeo.svg)](http://badge.fury.io/js/endeo)
+[![Dependency Status](https://gemnasium.com/elidoran/endeo-std.png)](https://gemnasium.com/elidoran/endeo-std)
+[![npm version](https://badge.fury.io/js/endeo-std.svg)](http://badge.fury.io/js/endeo-std)
 
 Aggregates standard endeo implementations for easy install.
 
