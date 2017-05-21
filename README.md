@@ -39,10 +39,12 @@ var buildEndeo = require('endeo')
 var endeo = buildEndeo()
 
 // encode object/array/string
-var buffer = endeo.encode({ some: 'object' })
+var result = endeo.encode({ some: 'object' })
+// result has `error` or `buffer`
+var buffer = result.buffer
 
 // decode buffer back into an object
-var object = endeo.decode(buffer)
+var object = endeo.decode(buffer, 0)
 
 
 // streaming version...
