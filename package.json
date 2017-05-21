@@ -1,6 +1,6 @@
 {
   "name": "endeo-std",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Aggregates standard endeo implementations.",
   "main": "index.js",
   "files": [
@@ -17,12 +17,12 @@
   "bugs": "http://github.com/elidoran/endeo-std/issues",
   "devDependencies": {},
   "dependencies": {
-    "@endeo/bytes":"^0.1.0",
-    "@endeo/decoder":"^0.3.0",
-    "@endeo/input":"^0.3.0",
-    "@endeo/output":"^0.2.0",
-    "@endeo/specials":"^0.2.0",
-    "@endeo/types":"^0.1.0",
+    "@endeo/bytes": "^0.1.0",
+    "@endeo/decoder": "^0.3.0",
+    "@endeo/input": "^0.3.0",
+    "@endeo/output": "^0.2.0",
+    "@endeo/specials": "^0.2.0",
+    "@endeo/types": "^0.1.0",
     "debyte": "^0.2.1",
     "enbyte": "^0.2.0",
     "endeo": "^0.1.0",
